@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "npm": "^6.4.1",
     "animate.css": "^3.7.0",
     "hover.css": "^2.3.2",
     "react": "^16.5.0",
@@ -22,4 +23,5 @@
     "not ie <= 11",
     "not op_mini all"
   ]
+
 }
